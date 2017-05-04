@@ -9,12 +9,14 @@ Hello! This guide aims to teach you some of the fundamentals of programming, spe
 	1. Languages, syntax vs thinking, compilliers, and setup for the tutorials
 
 2. Core elements of programs
-	1. Input/Output
+	1. Output
 	2. Variables
-	3. Functions
-	4. Documentation
-	5. Control Flow
-	6. Iteration
+	3. Input
+	4. Operations (Math, each line)
+	5. Functions
+	6. Documentation
+	7. Control Flow
+	8. Iteration
 	
 3. Algorithims
 	1. What is an algorithims
