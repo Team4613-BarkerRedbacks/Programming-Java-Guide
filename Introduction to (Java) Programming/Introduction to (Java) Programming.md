@@ -6,32 +6,32 @@ Hello! This guide aims to teach you some of the fundamentals of programming, spe
 
 ## Sections
 1. Introduction to programming
-	- Languages, syntax vs thinking, compilliers, and setup for the tutorials
+	1. Languages, syntax vs thinking, compilliers, and setup for the tutorials
 
 2. Core elements of programs
-	- Input/Output
-	- Variables
-	- Functions
-	- Documentation
-	- Control Flow
-	- Iteration
+	1. Input/Output
+	2. Variables
+	3. Functions
+	4. Documentation
+	5. Control Flow
+	6. Iteration
 	
 3. Algorithims
-	- What is an algorithims
-	- Some common algorithims
-	- Algorithim design practice
-	- Big O Notation
+	1. What is an algorithims
+	2. Some common algorithims
+	3. Algorithim design practice
+	4. Big O Notation
 	
 7. Object Oriented Programming (OOP)
-	- What is OOP & Why?
-	- Classes
-	- Inheitance
-	- Interfaces
-	- Why, now with examples! (& Questions)
+	1. What is OOP & Why?
+	2. Classes
+	3. Inheitance
+	4. Interfaces
+	5. Why, now with examples! (& Questions)
 
 5. More Data Types!
-	- Lists, tuples, etc.
-	- Splicing / Selection
-	- Primitive data types vs Objects (and how Primitive data types are stored)
+	1. Lists, tuples, etc.
+	2. Splicing / Selection
+	3. Primitive data types vs Objects (and how Primitive data types are stored)
 
 6. Exceptions & Error handling
