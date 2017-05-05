@@ -1,0 +1,7 @@
+# Core elements of programs - Output
+
+So, time to start programming!
+
+An important ability for programs to do is output data.
+A common way to output data is to send text to the console.
+The console is just a text stream. In eclipse it'll be at the bottom of your window.
